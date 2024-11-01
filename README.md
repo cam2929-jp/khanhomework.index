@@ -1,5 +1,8 @@
 Travel to Spain
-
+<img src=("https://cdn.kastatic
+.org/third_party/javascript-khansrc/live
+-editor/build/images/creatures/Hopper
+-Cool.png"://)>
 
 Visit Spain Spain is a very beautiful place that has a lot of places to visit
 
@@ -16,3 +19,5 @@ Registration with Social Security and access to health services
 Go to the sagrada familia
 go to the tourist bus in Madrid.
 Prove your identity with a valid and current travel document
+<img src=("https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/creatures/OhNoes.png
+/KGV8s2 iAtEYWYdvv5"://)
